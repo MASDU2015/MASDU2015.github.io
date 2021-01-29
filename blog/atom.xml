@@ -2,30 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://masdu2015.github.io/blog</id>
     <title>MASDU Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <updated>2015-05-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://masdu2015.github.io/blog"/>
     <subtitle>MASDU Blog</subtitle>
     <icon>https://masdu2015.github.io/img/logo.jfif</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://masdu2015.github.io/blog/welcome"/>
-        <updated>2019-05-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello]]></title>
-        <id>hello-world</id>
-        <link href="https://masdu2015.github.io/blog/hello-world"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hola]]></title>
-        <id>hola</id>
-        <link href="https://masdu2015.github.io/blog/hola"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <title type="html"><![CDATA[马协诞生]]></title>
+        <id>马协诞生</id>
+        <link href="https://masdu2015.github.io/blog/马协诞生"/>
+        <updated>2015-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[山东大学马拉松爱好者协会是山东大学的群众性体育类社团。成立于2015年5月4日，是学校广大跑步爱好者的活动平台，协会创办目的是希望以马拉松长跑锻炼为纽带，通过日常的体训和丰富多彩的跑步活动，使更多的同学养成科学的锻炼习惯，并从跑步中获得快乐，收获成长。]]></summary>
     </entry>
 </feed>

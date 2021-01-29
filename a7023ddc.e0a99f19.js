@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{83:function(a){a.exports=JSON.parse('{"\u9a6c\u534f":{"allTagsPath":"/blog/tags","slug":"\u9a6c\u534f","name":"\u9a6c\u534f","count":1,"permalink":"/blog/tags/\u9a6c\u534f"},"\u5c71\u5927":{"allTagsPath":"/blog/tags","slug":"\u5c71\u5927","name":"\u5c71\u5927","count":1,"permalink":"/blog/tags/\u5c71\u5927"}}')}}]);
